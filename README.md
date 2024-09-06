@@ -1,3 +1,3 @@
 # Tugas-Kelompok
 
-Hello Github, ini adalah tugas kelompok pertama kami.
+Hello Github, ini adalah tugas kelompok pertama kami
